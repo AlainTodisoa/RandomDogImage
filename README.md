@@ -1,0 +1,1 @@
+This app returns random dog images from dog.ceo api.
